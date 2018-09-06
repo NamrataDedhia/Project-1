@@ -1,0 +1,16 @@
+com\shop\shopigobackend\dao\Impl\CategoryDAOImpl.class
+com\shop\shopigobackend\dao\Impl\OrdersDAOImpl.class
+com\shop\shopigobackend\dao\UserDAO.class
+com\shop\shopigobackend\dao\ProductDAO.class
+com\shop\shopigobackend\config\DBConfig.class
+com\shop\shopigobackend\dao\CategoryDAO.class
+com\shop\shopigobackend\model\Cart.class
+com\shop\shopigobackend\dao\Impl\ProductDAOImpl.class
+com\shop\shopigobackend\model\Orders.class
+com\shop\shopigobackend\dao\Impl\CartDAOImpl.class
+com\shop\shopigobackend\model\Category.class
+com\shop\shopigobackend\model\User.class
+com\shop\shopigobackend\model\Product.class
+com\shop\shopigobackend\dao\CartDAO.class
+com\shop\shopigobackend\dao\OrdersDAO.class
+com\shop\shopigobackend\dao\Impl\UserDAOImpl.class

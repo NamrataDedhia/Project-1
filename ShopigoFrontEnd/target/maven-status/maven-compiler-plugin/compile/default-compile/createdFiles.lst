@@ -1,0 +1,7 @@
+com\shop\shopigofrontend\controller\HomeController.class
+com\shop\shopigofrontend\controller\CartController.class
+com\shop\shopigofrontend\controller\PaymentController.class
+com\shop\shopigofrontend\controller\ProductController.class
+com\shop\shopigofrontend\controller\CategoryController.class
+com\shop\shopigofrontend\controller\AdminController.class
+com\shop\shopigofrontend\controller\UserController.class

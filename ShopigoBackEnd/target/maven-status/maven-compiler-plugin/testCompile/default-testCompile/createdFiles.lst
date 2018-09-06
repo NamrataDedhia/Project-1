@@ -1,0 +1,5 @@
+com\niit\shopigobackend\testcases\CategoryDAOTestCase.class
+com\niit\shopigobackend\testcases\CartDAOTestCase.class
+com\niit\shopigobackend\testcases\ProductDAOTestCase.class
+com\niit\shopigobackend\testcases\UserDAOTestCase.class
+com\niit\shopigobackend\testcases\OrdersDAOTestCase.class
